@@ -3,6 +3,9 @@ This repo was created to demonstrate the issue encountered when archiving iOS on
 
 
 ## Can't archive iOS after installing Genius Scan
+The weird part is that archive is successful according to Xcode but the archive is not added to the organiser screen.
+When looking for the archive manually you find a corrupt or unreadable archive that is created
+
 The issue happens right after installing Genius scan following the docs here: https://www.npmjs.com/package/@thegrizzlylabs/react-native-genius-scan
 
 The goal is to help repdroduce the issue by the Genius Scan team in order to eventually fix it.
