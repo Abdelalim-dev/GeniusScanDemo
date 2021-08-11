@@ -13,3 +13,6 @@ The steps followed to create this project:
 - Creted the project using the command `npx react-native init GeniusScanDemo --version 0.60.5`
 - Followed the mentioned docs to install Genius Scan (yarn add, pod install)
 - Updated iOS deployment target to match the version selected on PodFile framework from Genius Scan installation docs.
+
+**Notes**
+- The iOS app was archived correctly before installing Genius Scan React native module.
